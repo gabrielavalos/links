@@ -4,4 +4,5 @@
 <br>
 ## matlablib
   * [object oriented plotting - creating plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.plot.html)
+  * [object oriented plotting - creating dfferent type of plots, i.e. bar, pie, filled, etc.](https://matplotlib.org/3.1.0/api/axes_api.html)
   * [markers](https://matplotlib.org/3.1.3/api/markers_api.html)
