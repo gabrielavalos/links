@@ -19,3 +19,6 @@
      * [creating dfferent type of plots, i.e. bar, pie, filled, etc.](https://matplotlib.org/3.1.0/api/axes_api.html)
    * [bar plots](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.bar.html)
    * [piecharts](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
+
+## pandas
+  * [visualizing Series and/or DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
