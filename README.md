@@ -15,7 +15,7 @@
    * [scatter plots (parameters)](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html)
    * [sactter plot legends](https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
  <br>
-#### Object-oriented approach
+Object-oriented approach
    * [creating plot](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.plot.html)
      * [creating dfferent type of plots, i.e. bar, pie, filled, etc.](https://matplotlib.org/3.1.0/api/axes_api.html)
    * [bar](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.bar.html)
