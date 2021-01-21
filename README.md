@@ -14,6 +14,7 @@
    * [pie charts](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.pie.html#matplotlib.pyplot.scatter)
    * [scatter plots](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html)
      * [sactter plot legends](https://matplotlib.org/3.1.0/gallery/lines_bars_and_markers/scatter_with_legend.html#sphx-glr-gallery-lines-bars-and-markers-scatter-with-legend-py)
+   * [sub plots](https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.subplots.html)
 #### Object Oriented approach
    * [creating plots](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.plot.html)
      * [creating dfferent type of plots, i.e. bar, pie, filled, etc.](https://matplotlib.org/3.1.0/api/axes_api.html)
