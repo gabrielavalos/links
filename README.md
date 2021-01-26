@@ -23,6 +23,7 @@
 
 ## pandas
   * [visualizing Series and/or DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+  * [pd.read_excel( )](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)
 ## numpy
   * [numpy.random.uniform() - an array of integers between given limits](https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html)
 ## jupyter notebook
