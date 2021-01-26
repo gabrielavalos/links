@@ -27,3 +27,4 @@
   * [numpy.random.uniform() - an array of integers between given limits](https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html)
 ## jupyter notebook
   * [installing python packages from Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+  * [installing enviroments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
