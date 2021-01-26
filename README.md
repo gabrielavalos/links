@@ -24,4 +24,4 @@
 ## pandas
   * [visualizing Series and/or DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 ## numpy
-  * [numpy.random.uniform() - an array of integers between given limits](https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html)
+  * [numpy.random.uniform() - an array of integers between given limits](https://numpy.org/doc/stable/reference/random/generated/numpy.random.uniform.html)
