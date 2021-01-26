@@ -28,3 +28,6 @@
 ## jupyter notebook
   * [installing python packages from Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
   * [installing enviroments](https://ipython.readthedocs.io/en/stable/install/kernel_install.html#kernels-for-different-environments)
+  * [installing enviroment - module 4](https://courses.bootcampspot.com/courses/482/pages/4-dot-3-1-start-your-jupyter-notebook-server?module_item_id=123264)
+    * python -m ipykernel install --user --name NAMEOFENVIROMENT
+    * if you get an error that states No module name ipykernel, you will have to install "ipykernel" by doing the following: python -m pip install ipykernel
