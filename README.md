@@ -34,3 +34,5 @@
     * if you get an error that states No module name ipykernel, you will have to install "ipykernel" by doing the following: python -m pip install ipykernel
 ## conda
    * [managing enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-the-packages-in-an-environment)
+## APIs
+   * [request library](https://requests.kennethreitz.org/en/master/)
