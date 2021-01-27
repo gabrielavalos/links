@@ -32,3 +32,5 @@
   * [installing enviroment - module 4](https://courses.bootcampspot.com/courses/482/pages/4-dot-3-1-start-your-jupyter-notebook-server?module_item_id=123264)
     * python -m ipykernel install --user --name NAMEOFENVIROMENT
     * if you get an error that states No module name ipykernel, you will have to install "ipykernel" by doing the following: python -m pip install ipykernel
+## conda
+   * [managing enviroments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-the-packages-in-an-environment)
