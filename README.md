@@ -8,6 +8,7 @@
   * [rotating tickers](https://matplotlib.org/3.1.1/gallery/ticks_and_spines/ticklabels_rotation.html)
 
 #### MATLAB approach
+   * [main](https://matplotlib.org/3.1.1/api/pyplot_summary.html) 
    * [bar charts](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.bar.html)
      * [error bars](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.errorbar.html) 
      * [major & minor ticks](https://courses.bootcampspot.com/courses/482/pages/5-dot-1-9-chart-extras?module_item_id=123655)
