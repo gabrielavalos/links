@@ -23,6 +23,7 @@
    * [piecharts](https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.axes.Axes.pie.html)
 
 ## pandas
+  * [DataFrame - attributes and methods](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
   * [visualizing Series and/or DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
   * [pd.read_excel( )](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)
 ## numpy
